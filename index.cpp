@@ -5,5 +5,15 @@
 * Que algo sea infinito en base10 no significa que lo sea en base2.
 * printf("%.50f\n", 0.26 - 0.26f);
 * 
-* 
+* puedo usar |(fl(x)-x) / x| <= E_nach = 10^-16 y/o fl(x) = x(1+\delta)
+    BG: Busqueda Golosa
+    AGM: Arbol Generador Minimo
+    BL: Busqueda Local
+    TABU: Busqueda TABU.
+
+    BG: Busqueda Golosa
+    AGM: Arbol Generador Minimo
+    BL: Busqueda Local
+    TABU: Busqueda TABU.
+
 **/
